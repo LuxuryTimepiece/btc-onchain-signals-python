@@ -1,0 +1,31 @@
+# Ignore operating system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignore editor-specific files
+.vscode/   # VS Code settings
+.idea/     # IntelliJ IDEA settings
+
+# Ignore sensitive files
+.env       # Environment variables (e.g., API keys)
+
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+
+# Node.js-specific ignores
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java-specific ignores
+*.class
+*.jar
+*.war
+target/
+bin/
