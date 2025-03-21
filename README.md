@@ -7,8 +7,7 @@
 
 The Bitcoin On-Chain Signals Engine is a full-stack web application that provides real-time insights into Bitcoin's on-chain metrics and generates trading signals based on technical indicators like the Relative Strength Index (RSI). The app fetches data from multiple APIs (CoinGecko, Blockchain.com, and mempool.space) and displays key metrics such as Bitcoin price, transaction volume, active addresses, block height, fee rates, and historical trends over the last 30 days. The frontend features an interactive dashboard with charts and a historical data table, while the backend handles data fetching and WebSocket communication for live updates.
 
-This project is a work-in-progress and was built to demonstrate skills in full-stack development, API integration, real-time data processing, and data visualization. It’s currently hosted live for portfolio purposes (add the live URL here if deployed).
-
+This project is a work-in-progress and was built to demonstrate skills in full-stack development, API integration, real-time data processing, and data visualization.
 ---
 
 ## Features
